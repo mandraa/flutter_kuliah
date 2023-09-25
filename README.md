@@ -1,4 +1,12 @@
-# flutter_kuliah
+# Prak 3
+[langkah 1](images/prak3_langkah1.png)
+
+[langkah 2](images/prak3_langkah2.png)
+
+# Prak 4
+[langkah 1](images/prak4_langkah1.png)
+
+[langkah 2](images/prak4_langkah2.png)
 
 A new Flutter project.
 
