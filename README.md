@@ -8,6 +8,15 @@
 
 [langkah 2](images/prak4_langkah2.png)
 
+[langkah 3](images/prak4_langkah3.png)
+
+[langkah 4](images/prak4_langkah4.png)
+
+[langkah 5](images/prak4_langkah5.png)
+
+[langkah 6](images/prak4_langkah6.png)
+
+
 A new Flutter project.
 
 ## Getting Started
